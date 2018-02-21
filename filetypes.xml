@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping pattern="metrics.ms" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
