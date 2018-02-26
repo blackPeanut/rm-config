@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="gatsv" value="tracker.trackScreenView(NAME)" description="Google analytics track screen view" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
