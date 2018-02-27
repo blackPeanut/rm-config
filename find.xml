@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value=".js" />
     <recentFileMasks>
       <mask>*.h</mask>
       <mask>s*.js</mask>
@@ -33,8 +33,8 @@
       <mask>saf.js</mask>
       <mask>saga.js</mask>
       <mask>sagas.js</mask>
-      <mask>.js</mask>
       <mask>*.js</mask>
+      <mask>.js</mask>
     </recentFileMasks>
   </component>
 </application>
