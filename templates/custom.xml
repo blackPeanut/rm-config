@@ -1,0 +1,7 @@
+<templateSet group="custom">
+  <template name="dbgbtn" value="import { TouchableOpacity} from 'react-native';&#10;&#10;debug = (props) =&gt; {&#10;  console.log('👾👾👾👾👾', props);&#10;  $END$&#10;}&#10;&#10;&lt;TouchableOpacity &#10;    style={{width: 200, height: 200, backgroundColor: 'red'}}, &#10;    onPress={() =&gt; {this.debug()}}&#10;&gt;&#10;&lt;/TouchableOpacity&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
