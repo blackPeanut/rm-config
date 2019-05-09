@@ -7,25 +7,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="bundler (v2.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/man" />
-      </excluded>
-    </library>
     <library name="CFPropertyList (v2.2.8, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
