@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="test tool" description="this is test tool to run rake commands for react native configuration" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Utilities/Terminal.app" />
+      <option name="PARAMETERS" value="echo hello" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Utilities" />
+    </exec>
+  </tool>
+</toolSet>
