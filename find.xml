@@ -3,6 +3,7 @@
     <option name="customScope" value="sagas" />
     <option name="defaultScopeName" value="sagas" />
     <option name="SEARCH_SCOPE" value="sagas" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
