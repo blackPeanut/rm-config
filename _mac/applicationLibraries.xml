@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="activesupport (v3.2.22.5, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-3.2.22.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-3.2.22.5/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.0.13, rbenv: 2.3.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -80,6 +91,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/apfel-0.0.5/spec" />
+      </excluded>
+    </library>
+    <library name="atlassian-jwt (v0.2.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atlassian-jwt-0.2.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atlassian-jwt-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atlassian-jwt-0.2.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atlassian-jwt-0.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atlassian-jwt-0.2.0/bin" />
       </excluded>
     </library>
     <library name="atomos (v0.1.2, rbenv: 2.3.8) [gem]" type="rubylib">
@@ -1600,6 +1627,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/java-properties-0.2.0/spec" />
       </excluded>
     </library>
+    <library name="jira-ruby (v1.7.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jira-ruby-1.7.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jira-ruby-1.7.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jira-ruby-1.7.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jira-ruby-1.7.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jira-ruby-1.7.1/spec" />
+      </excluded>
+    </library>
     <library name="json (v1.8.3.1, rbenv: 2.3.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1678,6 +1721,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/jwt-2.1.0/spec" />
+      </excluded>
+    </library>
+    <library name="jwt (v2.1.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jwt-2.1.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jwt-2.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jwt-2.1.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jwt-2.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jwt-2.1.0/spec" />
       </excluded>
     </library>
     <library name="libxml-ruby (v2.9.0, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -2193,6 +2252,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/patches" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/suppressions" />
+      </excluded>
+    </library>
+    <library name="oauth (v0.5.4, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/oauth-0.5.4/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/oauth-0.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/oauth-0.5.4/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/oauth-0.5.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/oauth-0.5.4/bin" />
       </excluded>
     </library>
     <library name="os (v1.0.1, rbenv: 2.3.8) [gem]" type="rubylib">
