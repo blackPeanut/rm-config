@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../android/app/src/main/java/com/tomtom/amigo/MainApplication.java [amigo]'" />
+    <option name="defaultScopeName" value="File '.../android/app/src/main/java/com/tomtom/amigo/MainApplication.java [amigo]'" />
+    <option name="SEARCH_SCOPE" value="File '.../android/app/src/main/java/com/tomtom/amigo/MainApplication.java [amigo]'" />
     <option name="FILE_MASK" value="*-test.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
