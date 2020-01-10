@@ -12,7 +12,13 @@
   </component>
   <component name="Instance" id="00a1451c-a3b5-46ed-add9-099aad4533b4" version="7.5" />
   <component name="UsageLog">
-    <event name="OpenFile" place="EditorPopup" timestamp="2020-01-10T10:35:38.755Z">
+    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-01-10T10:44:38.693Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-01-10T10:45:02.369Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="OpenFile" place="EditorPopup" timestamp="2020-01-10T10:45:39.690Z">
       <attribute name="editor">true</attribute>
       <attribute name="multipleLines">false</attribute>
       <attribute name="multipleCarets">false</attribute>
