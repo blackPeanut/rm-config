@@ -1,0 +1,22 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="a94d059e-9ff6-3d0f-bc23-c01e18f4e825" baseUri="https://bitbucket.tomtomgroup.com/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="bitbucket.tomtomgroup.com" port="-1" path="/" uuid="a94d059e-9ff6-3d0f-bc23-c01e18f4e825" />
+    </lookup>
+  </component>
+  <component name="Instance" id="00a1451c-a3b5-46ed-add9-099aad4533b4" version="7.5" />
+  <component name="UsageLog">
+    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2020-01-10T10:33:22.680Z">
+      <attribute name="editor">true</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
+  </component>
+</application>
