@@ -1,5 +1,6 @@
 <application>
   <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
 </application>
