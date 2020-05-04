@@ -16,6 +16,7 @@
     <mask>*-test.js</mask>
     <mask>*§.js</mask>
     <mask>*.json</mask>
+    <mask>*container.js</mask>
     <mask>*.js</mask>
   </component>
 </application>
