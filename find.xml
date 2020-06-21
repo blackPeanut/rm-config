@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Selectors" />
+    <option name="defaultScopeName" value="Selectors" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Selectors" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -21,6 +21,7 @@
     <mask>*§.js</mask>
     <mask>*.json</mask>
     <mask>*container.js</mask>
+    <mask>*Container.js</mask>
     <mask>*.js</mask>
   </component>
 </application>
