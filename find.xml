@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Mapping" />
     <option name="defaultScopeName" value="Mapping" />
-    <option name="regularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Mapping" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
