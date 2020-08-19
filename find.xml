@@ -21,6 +21,7 @@
     <mask>*saga.js</mask>
     <mask>*.jtests</mask>
     <mask>*-test.js</mask>
+    <mask>en-gb.json</mask>
     <mask>*.js</mask>
   </component>
 </application>
