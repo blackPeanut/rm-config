@@ -14,7 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.rb</mask>
     <mask>*§.js</mask>
-    <mask>*.json</mask>
     <mask>*container.js</mask>
     <mask>*Container.js</mask>
     <mask>*.gradle</mask>
@@ -22,6 +21,7 @@
     <mask>*.jtests</mask>
     <mask>*-test.js</mask>
     <mask>en-gb.json</mask>
+    <mask>*.json</mask>
     <mask>*.js</mask>
   </component>
 </application>
